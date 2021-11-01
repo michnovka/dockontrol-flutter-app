@@ -1,0 +1,4 @@
+enum GeneralResponseType{
+  OK,
+  ERROR
+}
